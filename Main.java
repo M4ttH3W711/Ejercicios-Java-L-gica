@@ -12,5 +12,6 @@ public class Main {
 
         Persona persona = new Persona();
         persona.mayorDeEdad();
+        persona.descansar(false);
     }
 }

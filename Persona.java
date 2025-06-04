@@ -12,4 +12,14 @@ public class Persona {
             System.out.println("Eres un menor de edad");
         }
     }
+
+    void descansar(boolean estaCansado){
+        if(estaCansado){
+            System.out.println("Vete a dormir 😴");
+        } else {
+            System.out.println("Sigue prácticcando código ✍️");
+        }
+    }
 }
+
+//Agregar 5 cosas más que hacen las personas
